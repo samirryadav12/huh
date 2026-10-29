@@ -1,5 +1,4 @@
 
-
 # Dependencies
 node_modules/
 
@@ -28,6 +27,6 @@ Thumbs.db
 # TypeScript generated files
 *.tsbuildinfo
 
-# Keep the Three.js files required by the animation
+# Include Three.js files required by the animation
 !public/robonest/vendor/three/build/
 !public/robonest/vendor/three/build/**
